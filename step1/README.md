@@ -25,4 +25,4 @@ vamos a agregar el siguiente comando dentro de las comillas del onclick
 
 [continuar→](../step2/step2)
 
-[volver al inicio](../../)
+[volver al inicio](../../../)
