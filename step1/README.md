@@ -23,6 +23,6 @@ vamos a agregar el siguiente comando dentro de las comillas del onclick
 	* Para el caso de obtenerlo basta con guardarlo en una variable así: `var contenidoP = document.getElementById("demo").innerHTML` para posteriormente trabajar con dicho contenido
 	* Para el caso de modificarlo asignamos un nuevo valor al contenido así: `document.getElementById("demo").innerHTML = "Modificado con JavaScript!"` como es nuestro caso, lo cual hará que ahora nuestro párrafo, tenga el texto `Modificado con JavaScript!`
 
-[continuar→](../../tree/step2)
+[continuar→](../step2/step2)
 
 [volver al inicio](../../)
